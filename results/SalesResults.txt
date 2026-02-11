@@ -1,0 +1,12 @@
+--- TC1.Sales.json ---
+Total sales cost: $2,481.86
+Time elapsed: 0.0004 seconds
+
+--- TC2.Sales.json ---
+Total sales cost: $166,568.23
+Time elapsed: 0.0003 seconds
+
+--- TC3.Sales.json ---
+Total sales cost: $165,235.37
+Time elapsed: 0.0004 seconds
+
