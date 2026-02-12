@@ -1,24 +1,7 @@
 === flake8 ===
-computeSales.py:2:10: E401 multiple imports on one line
-computeSales.py:10:1: E302 expected 2 blank lines, found 1
-computeSales.py:21:1: E302 expected 2 blank lines, found 1
-computeSales.py:32:80: E501 line too long (131 > 79 characters)
-computeSales.py:36:80: E501 line too long (118 > 79 characters)
-computeSales.py:43:1: E302 expected 2 blank lines, found 1
-computeSales.py:45:80: E501 line too long (84 > 79 characters)
 
 === pylint ===
-************* Module computeSales
-computeSales.py:32:0: C0301: Line too long (131/100) (line-too-long)
-computeSales.py:36:0: C0301: Line too long (118/100) (line-too-long)
-computeSales.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-computeSales.py:1:0: C0103: Module name "computeSales" doesn't conform to snake_case naming style (invalid-name)
-computeSales.py:2:0: C0410: Multiple imports on one line (os, sys) (multiple-imports)
-computeSales.py:6:0: C0116: Missing function or method docstring (missing-function-docstring)
-computeSales.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
-computeSales.py:21:0: C0116: Missing function or method docstring (missing-function-docstring)
-computeSales.py:43:0: C0116: Missing function or method docstring (missing-function-docstring)
 
-------------------------------------------------------------------
-Your code has been rated at 8.57/10 (previous run: 8.57/10, +0.00)
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.57/10, +1.43)
 
